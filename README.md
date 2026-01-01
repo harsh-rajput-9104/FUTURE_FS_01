@@ -67,3 +67,7 @@ A complete full-stack personal portfolio website showcasing skills, projects, an
 
 - If you don't have MongoDB installed locally, the server will skip the DB connection but still function for other features.
 - If you don't provide email credentials, the email sending will be skipped, but the API will still return success for demonstration purposes.
+
+## Author
+Harsh Rajput  
+GitHub: https://github.com/harsh-rajput-9104
